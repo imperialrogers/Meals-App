@@ -1,0 +1,15 @@
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/icudtl.dat
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/flutter_windows.dll
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Bold.ttf
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Regular.ttf
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/assets/fonts/QuickSand-Bold.ttf
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/assets/fonts/QuickSand-Regular.ttf
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/assets/images/waiting.png
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/assets%5Cimages%5Cwaiting.png
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/project/Expenses Tracker/flutter_complete_guide/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
